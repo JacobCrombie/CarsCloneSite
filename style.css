@@ -33,7 +33,7 @@ footer{
 
 .hero-img2{
   background-image: url("./corvettebeach.jpg");
-  height: 60vh;
+  height: 300px;
   background-size: cover;
   background-position: center;
 }
