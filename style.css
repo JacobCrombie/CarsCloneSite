@@ -1,14 +1,32 @@
+/*{
+  border: solid 1px red;
+}*/
 
-body { min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-   }
+body{
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+}
 
-   header{ 
-   }
+header{
+}
 
-   main{
-     flex-grow: 1;}
+main{
+flex-grow: 1;
+}
 
-     footer{
-      }
+footer{
+}
+
+.img-fit{
+  object-fit: contain;
+  height: 100px;
+  width: 100px;
+}
+
+.hero-img{
+  background-image: url("./Track.jpg");
+  height: 30vh;
+  background-size: cover;
+  background-position: bottom left;
+}
