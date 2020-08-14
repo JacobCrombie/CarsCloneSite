@@ -30,3 +30,14 @@ footer{
   background-size: cover;
   background-position: bottom left;
 }
+
+.hero-img2{
+  background-image: url("./corvettebeach.jpg");
+  height: 60vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.footer-bg{
+  background-color: rgb(216, 211, 211);
+}
